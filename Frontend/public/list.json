@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "A collection of captivating short stories for young readers",
+        "price": 0,
+        "category": "Free",
+        "image": "/image.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Comedy Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 50,
+        "category": "Entertainment",
+        "image": "/image.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Horror Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 50,
+        "category": "Horror",
+        "image": "/image.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Food Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 30,
+        "category": "Food",
+        "image": "/image.jpg"
+    },
+    {
+    "id": 5,
+    "name": "Dreamland Diaries",
+    "title": "Explore whimsical dreams and magical lands through poetic tales.",
+    "price": 0,
+    "category": "Free",
+    "image": "/image.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Peace Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 40,
+        "category": "Peaceful vibes",
+        "image": "/image.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Music Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 100,
+        "category": "Song",
+        "image": "/image.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "price": 0,
+        "category": "Story",
+        "image": "/image.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Drama Book",
+        "title": "Intense narratives and heartfelt moments wrapped in fiction.",
+        "price": 0,
+        "category": "Free",
+        "image": "/image.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Nature Speaks",
+        "title": "A peaceful walk through poetry inspired by earth and sky.",
+        "price": 0,
+        "category": "Free",
+        "image": "/image.jpg"
+    }
+]
